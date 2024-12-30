@@ -3,3 +3,5 @@
 npm i express
 
 npm i mongoose
+
+npm i bcryptjs
